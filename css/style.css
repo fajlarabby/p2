@@ -1,0 +1,27 @@
+/* 3 types of css-inline: jay line a html oy line a css; internal:jay page a html code oy line a css code;  external:akta page a html onno page css, atay  best css */
+
+/*syntax
+		selector{                (selector dhorar kaj kora ,inline a selector laga na, many types of selector like tag,class, id(powerfull))
+			properties: values;
+	            }
+*/	 
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.image_for_about_page{
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 50%;
+}
+.text{
+	text-align: center;
+}
+.align {
+    text-align:center;
+    display:block;
+}
